@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yoo30.github.io/site-freelance/blog/</loc>
+    <lastmod>2019-01-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yoo30.github.io/site-freelance/</loc>
+    <lastmod>2019-01-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yoo30.github.io/site-freelance/blog/are-you-doing-the-right-way/</loc>
     <lastmod>2019-01-12T14:51:12+06:00</lastmod>
   </url>
@@ -18,25 +28,11 @@
   </url>
   
   <url>
-    <loc>https://yoo30.github.io/site-freelance/blog/</loc>
-    <lastmod>2019-01-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yoo30.github.io/site-freelance/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yoo30.github.io/site-freelance/</loc>
-    <lastmod>2019-01-12T14:51:12+06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yoo30.github.io/site-freelance/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
