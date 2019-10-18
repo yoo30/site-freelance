@@ -749,8 +749,19 @@
                             <input type="email" name="email" id="email" placeholder="Votre Email" />
                         </div>
 
-                          <div class="form-group">
-                            <textarea name="subject" id="subject" placeholder="" rows="4"></textarea>
+                          <div class="input-group mb-4">
+                            <div>
+                                <label class="input-group-text" for="inputGroupSelect01">Sujet</label>
+                            </div>
+                              <select class="custom-select" id="inputGroupSelect01">
+                                <option selected>Choisir</option>
+                                <option value="1">Site e-commerce</option>
+                                <option value="2">Site vitrine</option>
+                                <option value="3">Maintenance de site</option>
+                                <option value="3">Référencement</option>
+                              </select>
+
+                                
                         </div>
 
                         <div class="form-group">
@@ -767,8 +778,8 @@
 
                           <div class="cf-submit">
 
-                              <input type="submit" value="Envoyer" class="btn btn-transparent" />
-
+                              <input type="submit" value="Envoyer" class="btn btn-primary" />
+                                <input type="hidden" name="_next" value="http://yoann-mellier.fr/#contact-us"/>
                           </div>
                         </div>
                       </form>
